@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284194875241",
+    "project_id": "krishi-bazar-92663",
+    "storage_bucket": "krishi-bazar-92663.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284194875241:android:c5d89ed970c2d7d99d7ff8",
+        "android_client_info": {
+          "package_name": "com.example.krishi_bazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqgUxUS5OjICwj-g63WLJru0c_90VR6es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284194875241:android:a4c669a1dc68cbea9d7ff8",
+        "android_client_info": {
+          "package_name": "com.example.krishibazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqgUxUS5OjICwj-g63WLJru0c_90VR6es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
